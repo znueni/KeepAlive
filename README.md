@@ -1,7 +1,7 @@
 # KeepAlive
 Small tool to keep Windows from starting Screensaver / entering sleep mode
 
-Precompiled binary, ready to use is in the BIN folder. [Download here](bin/Keep Alive.exe)
+Precompiled binary, ready to use is in the BIN folder. [Download here](bin/Keep%20Alive.exe)
 
 Code is VB.NET, compiles with any .NET version. Its simply a few Windows API calls.
 
