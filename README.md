@@ -19,8 +19,3 @@ It uses the Windows SendInput API to tell the system to move the mouse by zero p
 For windows, thats the same effect as if you jiggle your mouse every five minutes :)
 
 
-# VB.NET version.
-The code in the root is standard C++
-There also is a VB.NET, compiles with any .NET version in the dotnet_version subfolder.
-It also includes code to prevent sleep through the /nosleep parameter.
-
